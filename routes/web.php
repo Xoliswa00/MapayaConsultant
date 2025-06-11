@@ -19,16 +19,14 @@ Route::middleware(['auth'])->group(function () {
     Volt::route('settings/appearance', 'settings.appearance')->name('settings.appearance');
 });
 
+Route::view('about', 'about')
+    
+    ->name('about');
+
+
 Route::get('/about', function () {
     return view('about');
 })->name('about');
-
-
-Route::get('/about', function () {
-    return view('about');
-})->name('services');
-
-
 
 Route::get('/contact', function () {
     return view('contact');
