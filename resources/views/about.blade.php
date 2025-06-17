@@ -318,7 +318,7 @@
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-white mb-4">Our Office</h4>
                 <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>2763 WINNIE MANDELA ZONE 10, TEMBISA, South Africa</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+27 814 357 673 </p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>0657461061</p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@mapayaconsultants.co.za</p>
                  <!--  <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-light rounded-circle me-2" href="#"><i class="fab fa-twitter"></i></a>

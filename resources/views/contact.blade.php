@@ -109,13 +109,13 @@
 
                         <!-- Contact Shortcuts -->
                         <div class="d-flex justify-content-center gap-4 flex-wrap mb-3">
-                            <a href="mailto:info@mapoya.co.za" class="text-decoration-none text-dark">
-                                <i class="fa fa-envelope text-primary me-2"></i>info@mapoya.co.za
+                            <a href="mailto:info@mapayaconsultant.co.za" class="text-decoration-none text-dark">
+                                <i class="fa fa-envelope text-primary me-2"></i>info@mapayaconsultant.co.za
                             </a>
-                            <a href="tel:+27821234567" class="text-decoration-none text-dark">
-                                <i class="fa fa-phone-alt text-primary me-2"></i>+27 82 123 4567
+                            <a href="tel:0657461061" class="text-decoration-none text-dark">
+                                <i class="fa fa-phone-alt text-primary me-2"></i>0657461061
                             </a>
-                            <a href="https://wa.me/27821234567" target="_blank" class="text-decoration-none text-dark">
+                            <a href="https://wa.me/+27657461061" target="_blank" class="text-decoration-none text-dark">
                                 <i class="fab fa-whatsapp text-success me-2"></i>Chat on WhatsApp
                             </a>
                         </div>

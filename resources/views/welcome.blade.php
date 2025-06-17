@@ -477,13 +477,13 @@
 
                         <!-- Contact Shortcuts -->
                         <div class="d-flex justify-content-center gap-4 flex-wrap mb-3">
-                            <a href="mailto:info@mapoya.co.za" class="text-decoration-none text-dark">
-                                <i class="fa fa-envelope text-primary me-2"></i>info@mapoya.co.za
+                            <a href="mailto:info@mapayaconsultant.co.za" class="text-decoration-none text-dark">
+                                <i class="fa fa-envelope text-primary me-2"></i>info@mapayaconsultant.co.za
                             </a>
-                            <a href="tel:+27821234567" class="text-decoration-none text-dark">
-                                <i class="fa fa-phone-alt text-primary me-2"></i>+27 82 123 4567
+                            <a href="tel:0657461061" class="text-decoration-none text-dark">
+                                <i class="fa fa-phone-alt text-primary me-2"></i>0657461061
                             </a>
-                            <a href="https://wa.me/27821234567" target="_blank" class="text-decoration-none text-dark">
+                            <a href="https://wa.me/+27657461061" target="_blank" class="text-decoration-none text-dark">
                                 <i class="fab fa-whatsapp text-success me-2"></i>Chat on WhatsApp
                             </a>
                         </div>
@@ -550,7 +550,7 @@
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-white mb-4">Our Office</h4>
                 <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>2763 WINNIE MANDELA ZONE 10, TEMBISA, South Africa</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+27 814 357 673 </p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>065 746 1061</p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@mapayaconsultants.co.za</p>
                  <!--  <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-light rounded-circle me-2" href="#"><i class="fab fa-twitter"></i></a>
