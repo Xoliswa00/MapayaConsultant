@@ -34,5 +34,18 @@ Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
 
+use Spatie\Sitemap\Sitemap;
+use Spatie\Sitemap\Tags\Url;
+
+Route::get('/generate-sitemap', function () {
+    Sitemap::create()
+        ->add(Url::create('/'))
+        ->add(Url::create('/about'))
+        ->add(Url::create('/services'))
+        ->add(Url::create('/contact'))
+        ->writeToFile(public_path('sitemap.xml'));
+
+    return 'Sitemap generated!';
+});
 
 require __DIR__.'/auth.php';
